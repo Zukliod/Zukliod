@@ -90,5 +90,5 @@ AI-powered legal navigator using Retrieval-Augmented Generation (RAG) and Gemini
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/zukliod
-- LinkedIn: *(Add your profile link)*
-- Portfolio: *(Add your portfolio URL)*
+- LinkedIn: [harshit](https://www.linkedin.com/in/harshit-singh-21jan2004)
+- Portfolio: zukliod.is-a.dev
